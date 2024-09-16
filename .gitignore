@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Diretórios de build
+dist/
+build/
+
+# Arquivos de configuração de IDE
+.vscode/
+.idea/
+
+# Sistema de cache
+.cache/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios de testes temporários
+coverage/
+
+# Arquivos gerados pelo npm
+package-lock.json
+yarn.lock
+
+# Arquivos de configuração do npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de dependências específicas de sistema
+*.tgz
+
+# Diretórios específicos de sistemas operacionais
+*.swp
+*.swo
+
+# Arquivos de banco de dados
+*.sqlite
+*.sqlite3
